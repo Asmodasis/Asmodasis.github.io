@@ -1,0 +1,71 @@
+.top-page{
+    display: flex;
+    margin-left: 10%;
+}
+
+
+.button-bar{
+    background-color: white; /* black background */
+    border: 1px solid black; /* black border */
+    color: white; /* White text */
+    padding: 10px 24px; /* Some padding */
+    float: right; /* Float the buttons side by side */
+    position: relative;
+    text-align: center;
+    
+    
+  }
+
+
+
+.name{
+    position: relative;
+    margin-right: 180px;
+}
+.image-div{
+    text-align: left;
+    margin-left: 10%;
+}
+
+
+.b1{
+    cursor: pointer;
+    position: inherit;
+    height: 25px;
+    width: 145px;
+    margin-top: 30px;
+    
+}
+.title-div{
+    text-align: left;
+    margin-left: 10%;
+}
+.about-div{
+    text-align: left;
+    margin-left: 10%;
+}
+.about-para{
+    margin-left: 1%;
+    width: 320px;
+}
+.projects-div{
+    text-align: center;
+    margin-right: 30%;
+    position: relative;
+    bottom: 500px;
+}
+.projects-para{
+    margin-left: 45%;
+    bottom: 350px; 
+    text-align: left;
+}
+
+.publications-div{
+    text-align: center;
+    margin-right: 30%;
+    
+}
+.contributions-div{
+    text-align: center;
+    margin-right: 30%;
+}
